@@ -1,5 +1,5 @@
 # 微信会话内容存档
-
+composer 下载使用
 ## 要求
 * 需要PHP扩展 ext-wxwork_finance_sdk 或者 ext-ffi，二选一
 * ext-wxwork_finance_sdk 安装详见: https://github.com/pangdahua/php7-wxwork-finance-sdk
